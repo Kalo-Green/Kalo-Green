@@ -5,4 +5,8 @@
  <!-- About section -->
 
 ---
-✨ Je suis développeur web junior.
+✨ Actuellement en formation de développeur web et web mobile chez WF3.  J'adore apprendre de nouvelles choses et travailler sur les nouvelles technologies.
+
+💻 Languages : HTML/CSS, Bootstrap, Javascript, PHP, Wordpress
+
+<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
